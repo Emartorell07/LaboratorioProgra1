@@ -116,9 +116,9 @@ public class laboratorio3 {
                 case 5:
                     System.out.println("\nHasta luego");
                     
-                    System.out.println("Opcion 1" +contador1+ " veces");
-                    System.out.println("Opcion 2" +contador2+ " veces");
-                    System.out.println("Opcion 3" +contador3+ " veces");
+                    System.out.println("Opcion 1: " +contador1+ " veces");
+                    System.out.println("Opcion 2: " +contador2+ " veces");
+                    System.out.println("Opcion 3: " +contador3+ " veces");
                     break;
                     
                     
